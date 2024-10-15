@@ -1,3 +1,3 @@
-# goit-js-hw-07
+# goit-js-hw-08
 
-already 7th javascript project. It will be hard and fun
+already 7 steps done javascript project. It will be hard and fun
